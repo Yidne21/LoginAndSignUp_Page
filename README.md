@@ -1,6 +1,6 @@
 # A JavaFX App which Authenthicate and Registers A student
 
-_This App Accepts Users email and Password inputs to logging them to there account and if they don't have account it enables them to sign up._
+_This App Accepts Students email and Password inputs to logging them to there account and if they don't have account it enables them to sign up._
 
 ## Tools used
 
