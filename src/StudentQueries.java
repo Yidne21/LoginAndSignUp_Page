@@ -10,8 +10,8 @@ import javafx.scene.control.Alert.AlertType;
 
 public class StudentQueries {
     private static final String URL = "jdbc:mysql://localhost/student";
-    private static final String USER = "yidne";
-    private static final String PASSWORD = "19ybb21";
+    private static final String USER = "";
+    private static final String PASSWORD = "";
 
     private Connection connection;
     private PreparedStatement selectByemail;
